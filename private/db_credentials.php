@@ -13,7 +13,7 @@
 // defining my db credentials for online testing 
   define("DB_SERVER", "db4free.net:3306");
   define("DB_USER", "rexsteroxy");
-  define("DB_PASSWORD", "amadiaustin.77");
+  define("DB_PASSWORD", "");
   define("DB_NAME", "rexsteroxy");
  
    
